@@ -39,7 +39,7 @@ In this repository you can find tests for webpage ("https://www.vinkoprom.com/")
 
 - Go to [GIT](https://git-scm.com/downloads) and follow the instructions<br />
 
-### 5. Adding additional Kotlin depencies in pom.xml file
+### 6. Adding additional Kotlin depencies in pom.xml file
 
 - Add <br />
 ```xml
